@@ -1,6 +1,6 @@
 package MyBean;
 
-public class pet {
+public class Pet {
     private String name;
 
     public String getName() {
