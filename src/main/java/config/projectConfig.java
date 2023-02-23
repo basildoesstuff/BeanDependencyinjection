@@ -6,7 +6,6 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-@ComponentScan(basePackages = "MyBean")
 public class projectConfig {
     @Bean(name = "Tommy")
     Pet pet1(){
